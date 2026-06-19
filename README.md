@@ -10,6 +10,11 @@
 
 </div>
 
+<p align="center">
+  <img src="./images/Monitor.svg" alt="Terminal Banner" width="800"/>
+</p>
+
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;MERN+Stack+Specialist;FastAPI+Backend+Engineer;PostgreSQL+Database+Designer;Building+Scalable+Products" />
 
 ---
