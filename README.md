@@ -248,6 +248,32 @@ Combining modern web technologies with AI-powered workflows.
 
 ---
 
+## ⏱️ Wakatime Coding Stats
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=AdityaKarippadath&theme=tokyonight"/>
+
+---
+
+## 🏅 Holopin Badges
+
+[![An image of @AdityaKarippadath's Holopin badges](https://holopin.me/AdityaKarippadath)](https://holopin.io/@AdityaKarippadath)
+
+---
+
+## 💻 LeetCode Stats
+
+<img src="https://leetcard.jacoblin.cool/AdityaKarippadath?theme=dark&font=Baloo&ext=contest"/>
+
+---
+
+## 💭 Quote of the Day
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+
+
+---
+
 <div align="center">
 
 ### ⚡ "Turning ideas into scalable products through clean code."
@@ -257,6 +283,7 @@ Combining modern web technologies with AI-powered workflows.
 ---
 
 # 🐍 Contribution Snake
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AdityaKarippadath/AdityaKarippadath/output/github-contribution-grid-snake.svg" />
