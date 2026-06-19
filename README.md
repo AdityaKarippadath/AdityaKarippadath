@@ -65,6 +65,10 @@ const aditya = {
 }
 ```
 
+<p align="center">
+  <img src="./images/cmd.svg" alt="Terminal Banner" width="800"/>
+</p>
+
 ---
 
 # 💻 Tech Arsenal
