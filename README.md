@@ -18,6 +18,10 @@
 <img width="450" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 </div>
 
+<p align="center">
+  <img src="./images/terminal.svg" alt="Terminal Banner" width="800"/>
+</p>
+
 ## 🚀 About Me
 
 ```javascript
