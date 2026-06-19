@@ -272,17 +272,6 @@ Combining modern web technologies with AI-powered workflows.
 
 ---
 
-## 🏅 Holopin Badges
-
-[![An image of @AdityaKarippadath's Holopin badges](https://holopin.me/AdityaKarippadath)](https://holopin.io/@AdityaKarippadath)
-
----
-
-## 💻 LeetCode Stats
-
-<img src="https://leetcard.jacoblin.cool/AdityaKarippadath?theme=dark&font=Baloo&ext=contest"/>
-
----
 
 ## 💭 Quote of the Day
 
