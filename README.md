@@ -1,5 +1,7 @@
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Aditya%20Karippadath&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20MERN%20|%20FastAPI%20|%20PostgreSQL&descAlignY=55"/>
+
 # 👋 Hey, I'm Aditya Karippadath
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;MERN+Stack+Expert;FastAPI+Backend+Developer;PostgreSQL+%26+Database+Architect;Building+Scalable+Web+Applications;Open+Source+Contributor" />
@@ -9,6 +11,10 @@
 </div>
 
 ---
+
+<div align="center">
+<img width="450" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+</div>
 
 ## 🚀 About Me
 
@@ -88,6 +94,8 @@ const aditya = {
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaKarippadath&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
+
+
 
 ---
 
