@@ -66,7 +66,7 @@ const aditya = {
 ```
 
 <p align="center">
-  <img src="./images/cmd.svg" alt="Terminal Banner" width="800"/>
+  <img src="https://raw.githubusercontent.com/AdityaKarippadath/AdityaKarippadath/main/images/cmd.svg" alt="Terminal Banner" width="800"/>
 </p>
 
 ---
